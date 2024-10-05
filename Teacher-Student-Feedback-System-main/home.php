@@ -42,7 +42,7 @@ $name=$y['name'];
 <br>
 <br>
 <br>
-<a href="http://localhost/batch5-main/Teacher-Student-Feedback-System-main/complaint/view_feedback.php" class="button">Complaint</a>
+<a href="view_feedback.php" class="button">Complaint</a>
 <a href="changePass.php" class="button">Change Password</a>
 <a href="logout.php" class="button">Logout</a>
 <br>
