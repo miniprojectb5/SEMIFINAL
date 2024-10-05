@@ -68,7 +68,7 @@ if(!empty($_POST))
 </div>
 		
         <div class="tdd">
-        	   <input type="button" onClick="window.location='http://localhost/batch5-main/Teacher-Student-Feedback-System-main/mainhome.html'" value="HOME"/>&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" value="Login" />
+        	   <input type="button" onClick="window.location='mainhome.html'" value="Home"/>&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" value="Login" />
         </div>
     
     <br>
